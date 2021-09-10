@@ -1,0 +1,1 @@
+go build -ldflags="-H windowsgui" -o ./build/img_viewer.exe

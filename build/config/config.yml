@@ -1,0 +1,5 @@
+application:
+  filename: default.txt
+  fullscreen: "false"
+  relativepath: /resources/
+  refreshrate: 10
